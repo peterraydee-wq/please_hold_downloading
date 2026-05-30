@@ -1,5 +1,5 @@
 # please_hold_downloading
-
+![Version](https://img.shields.io/badge/version-1.2.3-blue)
 please hold. downloading. — an incremental tragedy in bandwidth.
 Here's what's in it:
 
