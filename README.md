@@ -1,5 +1,6 @@
 # please_hold_downloading
-![Version](https://img.shields.io/badge/version-1.2.3-blue)
+![Version](https://img.shields.io/badge/version-1.1-green) ![Views](https://views-counter.vercel.app/badge?pageId=peterrayde-wq%2Fplease_hold_downloading)
+
 please hold. downloading. — an incremental tragedy in bandwidth.
 Here's what's in it:
 
